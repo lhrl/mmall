@@ -6,7 +6,7 @@ package com.lhrl.controller;
 public class UserController {
 
     public static void main(String[] args) {
-        System.out.println("hell java");
+        System.out.println("hell world");
 
     }
 }
